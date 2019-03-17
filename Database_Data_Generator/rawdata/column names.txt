@@ -1,0 +1,30 @@
+Client:
+
+TC   Name   Surname   Mail   Phone   Password   Birthdate   HealthRisk
+
+
+-----------
+
+
+Car:
+
+Plate   Price   ModelDate   Accident   ClientID
+
+
+-----------
+
+
+Home:
+
+Builddate   EqRisk   Location   ClientID
+
+
+-----------
+
+
+Family:
+
+TC   Name   Surname   Phone   -RelationshipID   HealthRisk   -Birthdate
+
+
+-----------
