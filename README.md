@@ -1,2 +1,2 @@
 # Coding-For-Fun
-Just some random things that I do.
+Just some small random things that I do.
